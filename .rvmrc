@@ -1,1 +1,1 @@
-rvm use 1.9.3@rails32x --create
+rvm use ruby-1.9.3-p194@rails32x --create
