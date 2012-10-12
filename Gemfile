@@ -18,6 +18,7 @@ group :assets do
 end
 
 # infrastructure
+gem 'unicorn'
 gem 'sqlite3', :group => [:development, :test]
 #gem 'mysql2'
 #gem 'devise'
